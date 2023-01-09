@@ -1,4 +1,4 @@
-# React component to avoid if conditional
+# React component to replace conditional if
 
 ![image](https://user-images.githubusercontent.com/47106171/211231220-b4e7ad06-49f6-4bca-bf0f-aceb5edaf72e.png)
 
